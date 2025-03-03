@@ -1,0 +1,55 @@
+#include<stdio.h>
+int main ()
+{
+    int k, i, j,S,m,n,o,p;
+    printf("Enter the row and column of matrices A ");
+    scanf("%d%d",&m,&n);
+    printf("Enter the row and column of matrices B ");
+    scanf("%d%d",&o,&p);
+    if(n!=o)
+    {
+    printf("not possible");
+    }
+    int a[m][n],b[o][p],c[m][p];
+    printf("Enter the elements of matrix a :\n");
+    for(i = 0; i < m; i++)
+    {
+        for(j = 0; j < n; j++)
+        {
+            printf("Enter element [%d][%d]: ", i + 1, j + 1);
+            scanf("%d", &a[i][j]);
+        }
+    }
+    printf("Enter the elements of matrix b :\n");
+    for(i = 0; i < o; i++)
+    {
+        for(j = 0; j < p; j++)
+        {
+            printf("Enter element [%d][%d]: ", i + 1, j + 1);
+            scanf("%d", &b[i][j]);
+        }
+    }
+
+    for(i = 0; i < m; i++)
+    {
+        for(j = 0; j < p; j++)
+        {
+        S=0;
+        for(k=0;k<n;k++)
+        {
+            S=S + a[i][k]*b[k][j];
+        }
+        c[i][j]= S;
+        }
+    }
+    printf("Resultant matrix after multiplication:\n");
+    for(i = 0; i < m; i++)
+    {
+        for(j = 0; j < p; j++)
+        {
+            printf("%d ", c[i][j]);
+        }
+        printf("\n");
+    }
+    return 0;
+}
