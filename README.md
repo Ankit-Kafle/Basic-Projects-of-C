@@ -13,13 +13,6 @@ At last be sincere,chant the name of god, while seeing fault and criticizing oth
 
 
 
-#1
-If you read above all the things and you are looking now also then i am very much happy and i mention you that all the above thing which i have mention is not my own word 
-but these are the thing which i have gain from sastras, great devotee of the lord etc. If you really loves me then plz remind me about this so that i can remember this above philosophy 
-for myself also, i am not a pure devotee of the god but following little bit 0.000000...1% of the things told by the great saints. Dont hesistate whatever gender you are just make me remind only
-i will not do anything to you in opposite my respect and love towards you will increase soo much and i will never forgetyou because you came here to give your golden time to me. 
-so plz plz plz plz plz plz plz plz remind me...
-
 #Sorry
 I think you were coming here and expecting something different from me, but sorry i cannot fullfill your that expextation
 If you want to know more about me or about my works or business something like this then inbox me personally through whatsapp or messenger or other directly.
